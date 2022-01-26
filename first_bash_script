@@ -1,0 +1,4 @@
+#! /bin/bash
+
+# My first bash script putting some text to the screen
+echo "Hello, Hackers-Arise! This is Gabe here."
