@@ -1,0 +1,12 @@
+# Nmap 7.80 scan initiated Wed Jan 26 19:20:16 2022 as: nmap -sT -p 3306 -oG MySQLscan 86.134.151.119/24
+Host: 86.134.151.85 (host86-134-151-85.range86-134.btcentralplus.com)	Status: Up
+Host: 86.134.151.85 (host86-134-151-85.range86-134.btcentralplus.com)	Ports: 3306/filtered/tcp//mysql///
+Host: 86.134.151.103 (host86-134-151-103.range86-134.btcentralplus.com)	Status: Up
+Host: 86.134.151.103 (host86-134-151-103.range86-134.btcentralplus.com)	Ports: 3306/filtered/tcp//mysql///
+Host: 86.134.151.119 (host86-134-151-119.range86-134.btcentralplus.com)	Status: Up
+Host: 86.134.151.119 (host86-134-151-119.range86-134.btcentralplus.com)	Ports: 3306/closed/tcp//mysql///
+Host: 86.134.151.133 (host86-134-151-133.range86-134.btcentralplus.com)	Status: Up
+Host: 86.134.151.133 (host86-134-151-133.range86-134.btcentralplus.com)	Ports: 3306/filtered/tcp//mysql///
+Host: 86.134.151.216 (host86-134-151-216.range86-134.btcentralplus.com)	Status: Up
+Host: 86.134.151.216 (host86-134-151-216.range86-134.btcentralplus.com)	Ports: 3306/closed/tcp//mysql///
+# Nmap done at Wed Jan 26 19:20:30 2022 -- 256 IP addresses (5 hosts up) scanned in 13.24 seconds
