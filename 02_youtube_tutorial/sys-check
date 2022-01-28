@@ -1,0 +1,16 @@
+#! /bin/bash
+
+# Check our system.
+
+echo "Memory: "
+
+# free tells us how much memory we're using
+free -h
+
+echo "Disk Usage: "
+df -h
+
+echo "Uptime: "
+uptime
+
+exit
