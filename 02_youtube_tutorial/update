@@ -1,0 +1,11 @@
+#! /bin/bash
+
+# Simple script to update Ubuntu.
+
+# -yy won't prompt you - maybe dangerous (maybe fine)
+sudo apt update -yy
+sudo apt dist-upgrade -yy
+
+
+# Not neccessary
+exit
