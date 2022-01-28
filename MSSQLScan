@@ -1,0 +1,10 @@
+# Nmap 7.80 scan initiated Fri Jan 28 06:54:58 2022 as: nmap -sT -p 1433 -oG MSSQLScan 86.134.150.85-255
+Host: 86.134.150.140 (host86-134-150-140.range86-134.btcentralplus.com)	Status: Up
+Host: 86.134.150.140 (host86-134-150-140.range86-134.btcentralplus.com)	Ports: 1433/filtered/tcp//ms-sql-s///
+Host: 86.134.150.185 (host86-134-150-185.range86-134.btcentralplus.com)	Status: Up
+Host: 86.134.150.185 (host86-134-150-185.range86-134.btcentralplus.com)	Ports: 1433/closed/tcp//ms-sql-s///
+Host: 86.134.150.242 (host86-134-150-242.range86-134.btcentralplus.com)	Status: Up
+Host: 86.134.150.242 (host86-134-150-242.range86-134.btcentralplus.com)	Ports: 1433/closed/tcp//ms-sql-s///
+Host: 86.134.150.243 (host86-134-150-243.range86-134.btcentralplus.com)	Status: Up
+Host: 86.134.150.243 (host86-134-150-243.range86-134.btcentralplus.com)	Ports: 1433/filtered/tcp//ms-sql-s///
+# Nmap done at Fri Jan 28 06:55:07 2022 -- 171 IP addresses (4 hosts up) scanned in 9.10 seconds
