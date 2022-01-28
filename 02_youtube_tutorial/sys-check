@@ -5,10 +5,12 @@
 echo "Memory: "
 
 # free tells us how much memory we're using
-free -h
+# To be a real pro we can put the full path to commands 
+# we can't assume all users will have same PATH
+/usr/bin/free -h
 
 echo "Disk Usage: "
-df -h
+/usr/bin/df -h
 
 echo "Uptime: "
 uptime
